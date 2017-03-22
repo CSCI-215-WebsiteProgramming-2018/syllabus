@@ -3,16 +3,16 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
+# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Website Programming syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment)
+* **Course:** [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
-    * Office Hours: Tue & Thur- 4:30 to 5:30, Wed- 5:00 to 6:30
+    * Office Hours: Tue & Thur- 4:30 to 5:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](http://www.printfriendly.com/print?source=homepage&url_s=uGGCF%25dN%25cS%25cSpFpv-eja-zBovyrnCCqrIryBCzrAGmtvGuHomvB%25cSFLyynoHF%25cS#)
 
@@ -23,9 +23,9 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* CSCI 230-Data Structures and Alghorithms or equivalent (CSCI 221 for non-majors)
-* Understanding of Java programming language, data types, control flow, and basic method usage in Java
-* Working knowledge of an IDE such as Eclipse or IntelliJ (IntelliJ preferred)
+* CSCI 115-Web Design
+* Understanding of HTML and CSS
+* Working knowledge of a text editor or IDE such as Sublime Text or WebStorm
 * Working knowledge of Git and Github
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
