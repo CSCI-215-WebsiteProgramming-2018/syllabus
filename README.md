@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Website Programming syllabus
+# <img src="assets/csci215.png" alt="class logo" class="logo"/> Website Programming syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
 
