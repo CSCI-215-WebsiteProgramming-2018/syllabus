@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/csci215.png" alt="class logo" class="logo"/> Website Programming syllabus
+# <img src="assets/csci215_medium.png" alt="class logo" class="logo"/> Website Programming syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
 
@@ -18,8 +18,7 @@ permalink: /
 
 ## Course Description
 
-This hands-on, project-oriented course explores the principles and tools involved in the design and construction of applications for mobile devices. Although the course focuses on the Android platform, the basic concepts and experiences extend to other mobile devices. Topics include an overview of mobile application development, the Android application architecture, mobile application lifecycle, managing application resources, designing user interfaces, data storage options, integrating audio and video, location-based services, cross-platform development using a mobile device emulator, and porting applications to actual devices. In addition to several smaller programming assignments to provide experience and reinforce concepts, students will work in teams on a substantial programming project to design, develop, and deploy a mobile application.
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+A course teaching the design and development of interactive Web pages and client-side based Web programs using Rich Internet Applications (RIAs). Students will learn how to manage elements of a Web page using the Document Object Model (DOM), create and validate forms and communicate with Web servers using current Web technologies. Lectures three hours per week.
 
 ## Prerequisites
 
@@ -28,20 +27,19 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 * Working knowledge of a text editor or IDE such as Sublime Text or WebStorm
 * Working knowledge of Git and Github
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
+[Beginner Materials](#beginner-materials).
 
 ## Course Overview
 
 We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
-* The Activity Lifecycle
-* Debugging Android Applications
-* Creating User Interfaces with Layouts and Widgets
-* UI Fragments and Fragment Managers
-* The Tool Bar
-* SQLite Databases
-* Explicit and Implicit Intents
-* Bluetooth
+* Write rich web-based programs that execute in a standard web browser
+* Write web-programs that use JavaScript and HTML
+* Using JavaScript and jQuery to interact with the document object model (DOM)
+* Interacting with the user through events
+* Communicating with a server
+* Using the browser's Developer Tools to assist in debugging
+* Introduction to AJAX
 * and More...
 
 ## Homework/Projects
@@ -50,44 +48,26 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
-2. Create your Android project with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
-3. In Android Studio, share the project with GitHub.
+1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/course-outline.md). This will take you to the project in [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming) GitHub Organization account. 
+2. Fork the project into your personal GitHub account.
+3. Clone the project onto your local workstation.
 4. Read the instructions provided by the README file.
 5. Modify the files to complete your assignment.
-6. Test your solution with both an Android Virtual Device and a real phone.
-7. Create and include a screenshots of your application in action.
-8. Create a README file to communicate anything you need to me.
-9. Make sure all of your code is committed.
-10. Push/sync up to GitHub.
-11. The day the assignment is due, I would like a quick demo from a real device.
+6. Test your solution with the Firefox browser.
+8. Edit the README file to communicate anything you need to me.
+9. Make sure ALL of your code is committed.
+10. Push/sync up to GitHub (be sure to check GitHub to ensure all files were pushed correctly).
 
 ***All assignments are due at the start of class on the specified date.***
 
    * You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
 
    * I will leave appropriate feedback as an Issue inside of your repository.
-   
-   * Edit the README file in your repository to relay any feedback or instructions about your submission
-
-#### Versions
-
-For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date. See also: [extra credit](#extra-credit).
 
 ### Requirements
 
-* All applications must build, install, and run properly on a real Android phone (of the student's choosing). 
+* All code must execute and render properly in the Firefox browser.
 * Assignments must be completed by the due date. Late assignments will only be accepted one week late and will be marked down a whole letter grade.
-
-#### Extra Credit
-
-Bonus points for:
-
-* Automated tests
-* Creativity (as long as requirements are fulfilled)
-* Anything listed under `BONUS` in the README of the exercise.
-* Something that WOW's me.
-* Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/issues)
 
 ## Grading
 
