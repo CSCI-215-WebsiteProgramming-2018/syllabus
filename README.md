@@ -31,7 +31,7 @@ A course teaching the design and development of interactive Web pages and client
 
 ## Course Overview
 
-We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
+This course builds on your Web Design knowledge by adding a dynamic element to your websites. This is achieved with extensive use of the Javascript programming language and Javascript libraries such as jQuery. Modern tools such as Webstorm (or equivilent editor), Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
 * Write rich web-based programs that execute in a standard web browser
 * Write web-programs that use JavaScript and HTML
@@ -60,7 +60,7 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 
 ***All assignments are due at the start of class on the specified date.***
 
-   * You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
+   * You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the commit message to let me know it's been updated.
 
    * I will leave appropriate feedback as an Issue inside of your repository.
 
@@ -73,38 +73,34 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 
 The final grade for the course is based on 6 grades as follows:
 
-90% of your grade consists of the following:
-* Two assigned in-class tests. Each test counts as a separate grade.
-* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
-* Programming assignments – collectively count as 2 grades.
-* Course project – counts as 2 grades.
-* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
-
-10% of your grade is attendance/participation
+Exam 1            10%
+Exam 2            15%
+Homework          20%
+Labs              20%
+Final Project     25%
+Attendance         5%
+Participation      5%
 
 ## Course Schedule (tenative)
 
 ### Topics Covered:
 
-* Jan. 12 	   Introductions, Syllabus overview, Course expectations, Overview of Android Application Development
-* Jan. 17      Semester tools, Git, GitHub, Piazza, Android Studio
-* Jan. 19 	   Architecture, Activities and Lifecycle
-* Jan. 24/26   Intent Objects, Managing Resources, Events, Saving Activity State, User Interface Basics
-* Jan. 31/2 	User Interface Basics, Debugging Android Applications, Positioning with Layouts
-* Feb. 7/9 	   Positioning with Layouts and Fragments
-* Feb. 14      Positioning with Fragments, Semester group project introduction
-* Feb. 16 	   Test #1
-* Feb. 21/23 	Threads, Network Applications
-* Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
-* Mar. 7/9 	   Data Storage Continued (SQLite, Content Providers, ListView)
-* Mar. 14/16 	Location-Based Applications
-* Mar. 21/23 	Spring Break (no class)
-* Mar. 28/30 	Applications with Multiple Activities; Advanced User Interfaces
-* Apr. 4       Bluetooth, Animation; Multimedia
-* Apr. 6 	   Test #2
-* Apr. 11/13 	2D Graphics; Services
-* Apr. 18/20 	Selected Topics
-* Apr. 29 	   Project Demonstrations
+* Aug 23 - 25	  
+* Aug 28 - 01     
+* Sep 04 - 08	 
+* Sep 11 - 15  
+* Sep 18 - 22	
+* Sep 25 - 29  
+* Oct 02 - 06  
+* Oct 09 - 13  
+* Oct 16 - 20	
+* Oct 23 - 27	
+* Oct 30 - 03  
+* Nov 06 - 10	
+* Nov 13 - 17	
+* Nov 20 - 24	
+* Mov 27 - 01 
+* Dec 04  
 
 ## Resources
 
