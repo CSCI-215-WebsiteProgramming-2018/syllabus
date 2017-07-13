@@ -73,13 +73,13 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 
 The final grade for the course is based on 6 grades as follows:
 
-Exam 1            10%
-Exam 2            15%
-Homework          20%
-Labs              20%
-Final Project     25%
-Attendance         5%
-Participation      5%
+* Exam 1............10%
+* Exam 2............15%
+* Homework.......20%
+* Labs.................20%
+* Final Project....25%
+* Attendance........ 5%
+* Participation.......5%
 
 ## Course Schedule (tenative)
 
