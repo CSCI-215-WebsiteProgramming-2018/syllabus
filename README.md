@@ -85,17 +85,19 @@ Participation      5%
 
 ### Topics Covered:
 
-* Aug 23 - 25        Introduction to course, install GIT lab
-* Aug 28 - 01        Review of HTML and CSS, responsive frameworks, responsive design lab
-* Sep 04 - 08	      Introduction to Javascript programming
+* Aug 23 - 25        Introduction to course, install GIT lab, GIT/GITHUB lab (Lab 01)
+* Aug 28 - 01        Review of HTML and CSS, responsive frameworks, responsive design lab (Lab 02)
+* Sep 04 - 08	      Document Object Model, Introduction to Javascript programming
 * Sep 11 - 15  
-* Sep 18 - 22	
-* Sep 25 - 29  
+* Sep 18 - 22	      (No class Fri, 22 Sep)
+* Sep 25             EXAM #1
+* Sep 27 - 29        Intro to jQuery
 * Oct 02 - 06  
 * Oct 09 - 13  
 * Oct 16 - 20	
 * Oct 23 - 27	
-* Oct 30 - 03  
+* Oct 30             EXAM #2
+* Nov 01 - 03  
 * Nov 06 - 10	
 * Nov 13 - 17	
 * Nov 20 - 24	
