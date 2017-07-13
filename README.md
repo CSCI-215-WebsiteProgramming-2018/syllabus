@@ -85,9 +85,9 @@ Participation      5%
 
 ### Topics Covered:
 
-* Aug 23 - 25	  
-* Aug 28 - 01     
-* Sep 04 - 08	 
+* Aug 23 - 25        Introduction to course, install GIT lab
+* Aug 28 - 01        Review of HTML and CSS, responsive frameworks, responsive design lab
+* Sep 04 - 08	      Introduction to Javascript programming
 * Sep 11 - 15  
 * Sep 18 - 22	
 * Sep 25 - 29  
@@ -106,7 +106,7 @@ Participation      5%
 
 ### Required Reading
 
-* [Introduction to Android Application Development, 5th Edition](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/013438945X/ref=sr_1_1?s=books&ie=UTF8&qid=1485636446&sr=1-1&keywords=intro+to+android+application+development) by Joseph Annuzzi, Jr.
+* [Javascript and jQuery, The Missing Manual, 3rd Edition](https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_15?ie=UTF8&qid=1499966181&sr=8-15&keywords=javascript) by David Sawyer MacFarland
 
 ### Recommended Reading
 * [Android Studio Development Essentials](https://www.amazon.com/Android-Studio-Development-Essentials/dp/1519722087/ref=sr_1_2?ie=UTF8&qid=1484255739&sr=8-2&keywords=android+studio+development) by Neil Smyth
