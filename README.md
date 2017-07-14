@@ -5,7 +5,7 @@ permalink: /
 
 # <img src="assets/csci215_medium.png" alt="class logo" class="logo"/> Website Programming syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
+***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/meta.md) document.***
 
 * **Course:** [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
@@ -85,9 +85,9 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Aug 23 - 25        Introduction to course, install GIT lab, GIT/GITHUB lab (Lab 01)
-* Aug 28 - 01        Review of HTML and CSS, responsive frameworks, responsive design lab (Lab 02)
-* Sep 04 - 08	      Document Object Model, Introduction to Javascript programming
+* Aug 23 - 25        Introduction to course, Semester tools, Review of HTML and CSS, Document Object Model
+* Aug 28 - 01        Responsive web design, Responsive frameworks, responsive design lab (Lab 02)
+* Sep 04 - 08	      Introduction to Javascript programming
 * Sep 11 - 15  
 * Sep 18 - 22	      (No class Fri, 22 Sep)
 * Sep 25             EXAM #1
@@ -111,21 +111,24 @@ The final grade for the course is based on 6 grades as follows:
 * [Javascript and jQuery, The Missing Manual, 3rd Edition](https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_15?ie=UTF8&qid=1499966181&sr=8-15&keywords=javascript) by David Sawyer MacFarland
 
 ### Recommended Reading
-* [Android Studio Development Essentials](https://www.amazon.com/Android-Studio-Development-Essentials/dp/1519722087/ref=sr_1_2?ie=UTF8&qid=1484255739&sr=8-2&keywords=android+studio+development) by Neil Smyth
-* [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
-* [Android Programming The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide/dp/0134171454/ref=sr_1_1?ie=UTF8&qid=1478874065&sr=8-1&keywords=android+programming+the+big+nerd+ranch+guide+2nd+edition)
+* [Programming JavaScript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliot
+* [Secrets of the Javascript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=sr_1_27?ie=UTF8&qid=1500047832&sr=8-27&keywords=javascript) by  John Resig, Bear Bibeault, Josip Maras
+* [Getting Mean](https://www.amazon.com/Getting-MEAN-Mongo-Express-Angular/dp/1617292036/ref=sr_1_1?ie=UTF8&qid=1500048013&sr=8-1&keywords=getting+mean) by Simon Holmes
+
 ### Beginner Materials
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
 * [Udacity Courses](https://www.udacity.com/)
-* [Developer's Blog](http://android-developers.blogspot.com/)
+* [Developer's Blog](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Tools
 
-* [Android Studio](https://developer.android.com/studio/index.html)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Atom](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
 
-#### GitHub
+### GitHub
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
@@ -136,9 +139,9 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Reference
 
-* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
-* [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
-* [Textbook's website](https://introductiontoandroid.blogspot.com/)
+* Developer Resources  – [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [jQuery](http://api.jquery.com/)
+* [Textbook files](https://github.com/sawmac/js3e)
 
 ## Statements on Plagiarism
 
