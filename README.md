@@ -85,13 +85,13 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Aug 23 - 25        Introduction to course, Semester tools, Review of HTML and CSS, GIT demo
-* Aug 28 - 01        Responsive web design, Responsive frameworks, responsive design lab (Lab 01)
-* Sep 04 - 08	      Document Object Model, Introduction to Javascript programming
-* Sep 11 - 15        Javascript data types, Javascript data structures
-* Sep 18 - 22	      (No class Fri, 22 Sep)
-* Sep 25             EXAM #1
-* Sep 27 - 29        Intro to jQuery
+* Aug 23 - 25        Introduction to course, Semester tools, Review of HTML, GIT demo
+* Aug 28 - 01        Review HTML and CSS, Lab 01
+* Sep 04 - 08	      Responsive web design, Responsive frameworks,Document Object Model, Lab 02
+* Sep 11 - 15        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03
+* Sep 18 - 22	      Javascript data types, Javascript data structures (No class Fri, 22 Sep)
+* Sep 25 - 27        Javascript control flow, Exam review
+* Sep 29             EXAM #1
 * Oct 02 - 06  
 * Oct 09 - 13  
 * Oct 16 - 20	
