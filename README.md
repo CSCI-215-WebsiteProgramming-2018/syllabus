@@ -83,7 +83,7 @@ The final grade for the course is based on 6 grades as follows:
 * Attendance........ 5%
 * Participation.......5%
 
-## Course Schedule (tenative)
+## Course Schedule (tentative)
 
 ### Topics Covered:
 
@@ -91,18 +91,20 @@ The final grade for the course is based on 6 grades as follows:
 * Aug 28 - 01        Review HTML and CSS, Lab 01
 * Sep 04 - 08	      Responsive web design, Responsive frameworks,Document Object Model, Lab 02
 * Sep 11 - 15        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03
-* Sep 18 - 22	      Javascript data types, Javascript data structures (No class Fri, 22 Sep)
+* Sep 18 - 22	      Javascript data types, Javascript data structures (**No class** Fri, 22 Sep)
 * Sep 25 - 27        Javascript control flow, Exam review
-* Sep 29             EXAM #1
-* Oct 02 - 06  
-* Oct 09 - 13  
-* Oct 16 - 20	
-* Oct 23 - 27	
-* Oct 30             EXAM #2
-* Nov 01 - 03  
-* Nov 06 - 10	
-* Nov 13 - 17	
-* Nov 20 - 24	
+* Sep 29             **EXAM #1**
+* Oct 02 - 06        Advanced JavaScript Topics
+* Oct 09 - 13        Advanced JavaScript Topics
+* Oct 16             **Fall Break**
+* Oct 18 - 20        Advanced JavaScript Topics
+* Oct 23 - 27	      Intro to jQuery
+* Oct 30             **EXAM #2**
+* Nov 01 - 03        More jQuery
+* Nov 06 - 10	      Inro to jQuery UI
+* Nov 13 - 17	      jQuery UI
+* Nov 20 
+* Nov 22 - 24        **Thanksgiving Break**	
 * Mov 27 - 01 
 * Dec 04  
 
