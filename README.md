@@ -110,9 +110,12 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Required Reading
 
+* [Beginning JavaScript, 5th Edition](https://www.amazon.com/Beginning-JavaScript-Jeremy-McPeak/dp/1118903331/ref=pd_sim_14_7?_encoding=UTF8&psc=1&refRID=PWN4968YCWMFMCB9X2XG) by Jeremy McPeak
 * [Javascript and jQuery, The Missing Manual, 3rd Edition](https://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_15?ie=UTF8&qid=1499966181&sr=8-15&keywords=javascript) by David Sawyer MacFarland
 
+
 ### Recommended Reading
+
 * [Programming JavaScript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliot
 * [Secrets of the Javascript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=sr_1_27?ie=UTF8&qid=1500047832&sr=8-27&keywords=javascript) by  John Resig, Bear Bibeault, Josip Maras
 * [Getting Mean](https://www.amazon.com/Getting-MEAN-Mongo-Express-Angular/dp/1617292036/ref=sr_1_1?ie=UTF8&qid=1500048013&sr=8-1&keywords=getting+mean) by Simon Holmes
