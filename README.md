@@ -44,7 +44,7 @@ This course builds on your Web Design knowledge by adding a dynamic element to y
 
 ## Homework/Projects
 
-All homework assignments are listed within the [Course Outline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md).
+All homework assignments are listed within the [Course Outline](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/course-outline.md).
 
 Most Fridays there will be an in-class lab assignment. You will be given 50 minutes to complete and upload the assignment to GitHub. Edits can be made until the next Sunday, but there must be a commit/push before the end of class the day of the lab. In general, the lab assignment will be a coding exercise (JavaScript, HTML, or both), however a short quiz may also be given. The quiz may include multiplechoice, fill in the blank, or short answer questions. For example, 15 minutes of the lab time is a quiz, and the remaining 35 minutes is a coding problem.
 
