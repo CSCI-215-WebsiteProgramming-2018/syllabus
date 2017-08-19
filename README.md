@@ -75,12 +75,12 @@ Most Fridays there will be an in-class lab assignment. You will be given 50 minu
 
 The final grade for the course is based on 6 grades as follows:
 
-* Exam 1............10%
+* Exam 1............15%
 * Exam 2............15%
 * Final Exam.....15%
-* Homework.......20%
-* Labs.................20%
-* Final Project....10%
+* Homework.......15%
+* Labs.................15%
+* Final Project....15%
 * Attendance........ 5%
 * Participation.......5%
 
