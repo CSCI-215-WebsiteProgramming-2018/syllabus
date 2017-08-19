@@ -103,9 +103,9 @@ The final grade for the course is based on 6 grades as follows:
 * Nov 01 - 03        More jQuery
 * Nov 06 - 10	      Inro to jQuery UI
 * Nov 13 - 17	      jQuery UI
-* Nov 20 
+* Nov 20             
 * Nov 22 - 24        **Thanksgiving Break**	
-* Mov 27 - 01 
+* Nov 27 - 01        Student presentations
 * Dec 04  
 
 ## Resources
