@@ -20,6 +20,7 @@ permalink: /
 
 A course teaching the design and development of interactive Web pages and client-side based Web programs using Rich Internet Applications (RIAs). Students will learn how to manage elements of a Web page using the Document Object Model (DOM), create and validate forms and communicate with Web servers using current Web technologies. Lectures three hours per week.
 
+
 ## Prerequisites
 
 * CSCI 115-Web Design
@@ -41,6 +42,16 @@ This course builds on your Web Design knowledge by adding a dynamic element to y
 * Using the browser's Developer Tools to assist in debugging
 * Introduction to AJAX
 * and More...
+
+## Course Outcomes
+
+* Develop client-side web programs using variables, basic data structures (arrays, multidimensional arrays, and associative arrays), conditional logic and branching, loops, etc.
+* Create and use functions.
+* Manipulate and traverse DOM.
+* Create interactive web-programs (create and handle user or machine generated events).
+* Create dynamic web-based programs (programmatically add, remove, and update nodes in the DOM).
+* Write client-side form verification scripts.
+
 
 ## Homework/Projects
 
@@ -104,7 +115,7 @@ The final grade for the course is based on 6 grades as follows:
 * Nov 01 - 03        More jQuery
 * Nov 06 - 10	      Inro to jQuery UI
 * Nov 13 - 17	      jQuery UI
-* Nov 20             
+* Nov 20             Server side topics, introduction to AJAX
 * Nov 22 - 24        **Thanksgiving Break**	
 * Nov 27 - 01        Student presentations
 * Dec 04  
