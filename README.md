@@ -77,9 +77,10 @@ The final grade for the course is based on 6 grades as follows:
 
 * Exam 1............10%
 * Exam 2............15%
+* Final Exam.....15%
 * Homework.......20%
 * Labs.................20%
-* Final Project....25%
+* Final Project....10%
 * Attendance........ 5%
 * Participation.......5%
 
