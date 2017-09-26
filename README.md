@@ -101,18 +101,18 @@ The final grade for the course is based on 6 grades as follows:
 
 * Aug 23 - 25        Introduction to course, Semester tools, Review of HTML, GIT demo
 * Aug 28 - 01        Review HTML and CSS, Lab 01
-* Sep 04 - 08	      Responsive web design, Responsive frameworks,Document Object Model, Lab 02
-* Sep 11 - 15        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03
-* Sep 18 - 22	      Javascript data types, Javascript data structures (**No class** Fri, 22 Sep)
-* Sep 25 - 27        Javascript control flow, Exam review
-* Sep 29             **EXAM #1**
-* Oct 02 - 06        Advanced JavaScript Topics, Lab 04
+* Sep 04 - 06	      Responsive web design, Responsive frameworks,Document Object Model
+* Sep 08 - 13        Hurricane Irma evac
+* Sep 15             Lab 02
+* Sep 18 - 22        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03 
+* Sep 25 - 29	      Javascript data types, Javascript data structures, Javascript control flow, Lab 04
+* Oct 02 - 04        Javascript control flow, Exam review         
+* Oct 06             **EXAM #1**
 * Oct 09 - 13        Advanced JavaScript Topics, Lab 05
-* Oct 16             **Fall Break**
-* Oct 18 - 20        Advanced JavaScript Topics, Lab 06
-* Oct 23 - 27	      Intro to jQuery, Exam review
-* Oct 30             **EXAM #2**
-* Nov 01 - 03        More jQuery, Lab Intro to jQuery
+* Oct 16 - 20        Advanced JavaScript Topics, Lab 06
+* Oct 23 - 27	      Advanced JavaScript Topics, Lab 07
+* Oct 30 - 01        Intro to jQuery, Exam review
+* Nov 03             **EXAM #2**
 * Nov 06 - 10	      Inro to jQuery UI Lab jQuery UI
 * Nov 13 - 17	      jQuery UI
 * Nov 20             Server side topics, introduction to AJAX
