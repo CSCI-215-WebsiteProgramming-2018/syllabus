@@ -108,9 +108,10 @@ The final grade for the course is based on 6 grades as follows:
 * Sep 25 - 29	      Javascript data types, Javascript data structures, Javascript control flow, Lab 04
 * Oct 02 - 04        Javascript control flow, Exam review         
 * Oct 06             **EXAM #1**
-* Oct 09 - 13        Advanced JavaScript Topics, Lab 05
-* Oct 16 - 20        Advanced JavaScript Topics, Lab 06
-* Oct 23 - 27	      Advanced JavaScript Topics, Lab 07
+* Oct 07 - 08        Irma makeup days. DOM Scripting, Lab 05
+* Oct 09 - 13        Advanced JavaScript Topics, Lab 06
+* Oct 16 - 20        Advanced JavaScript Topics, Lab 07
+* Oct 23 - 27	      Advanced JavaScript Topics, Lab 08
 * Oct 30 - 01        Intro to jQuery, Exam review
 * Nov 03             **EXAM #2**
 * Nov 06 - 10	      Inro to jQuery UI Lab jQuery UI
