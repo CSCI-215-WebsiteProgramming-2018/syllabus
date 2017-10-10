@@ -95,6 +95,8 @@ The final grade for the course is based on 6 grades as follows:
 * Attendance........ 5%
 * Participation......5%
 
+## Grading Scale
+
 * A  90 - 100
 * B+ 85 - 89
 * B  80 - 84
