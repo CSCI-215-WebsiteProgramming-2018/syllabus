@@ -124,7 +124,7 @@ The final grade for the course is based on 6 grades as follows:
 * Oct 15             Irma makeup day. Lab 06 (part 1)
 * Oct 16 - 20        Event Handling, Form validaton, Lab 06 (part 2)
 * Oct 23 - 27	      Event Object, Animation, Lab 07
-* Oct 30 - 01        Intro to jQuery, Exam review
+* Oct 30 - 01        Lab 07 review, Event Object, JSON intro, Exam review
 * Nov 03             **EXAM #2**
 * Nov 06 - 10	      Intro to jQuery Lab 08 (jQuery lab)
 * Nov 13 - 17	      jQuery events, jQuery animation, Lab 09
