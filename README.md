@@ -127,7 +127,7 @@ The final grade for the course is based on 6 grades as follows:
 * Oct 30 - 01        Lab 07 review, Event Object, JSON intro, Exam review
 * Nov 03             **EXAM #2**
 * Nov 06 - 10	      Intro to jQuery Lab 08 (jQuery lab)
-* Nov 13 - 17	      jQuery events, jQuery animation, Lab 09
+* Nov 13 - 17	      jQuery events, jQuery animation, group time
 * Nov 20             Server side topics, introduction to AJAX
 * Nov 22 - 24        **Thanksgiving Break**	
 * Nov 27 - 01        Student presentations
