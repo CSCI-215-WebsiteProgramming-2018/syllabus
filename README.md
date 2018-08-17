@@ -10,9 +10,9 @@ permalink: /
 * **Course:** [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
-    * [Piazza](https://piazza.com/)
-        * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
-    * Office Hours: Tue & Thur- 4:30 to 5:30
+    * [Slack](https://javascriptdev2018.slack.com)
+        * This is a communications medium for students to interact with one another and myself. I encourage students to interact with one another as a resource as well as provide instructor answers.
+    * Office Hours: Tue & Thur- 4:30 to 5:30 (By request)
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](https://www.printfriendly.com/print?source=homepage&url_s=uGGCF_%7E_PdN_%7E_PcS_%7E_PcSpFpv-cbf-JroFvGrCEBtEnzzvAtmtvGuHomvB_%7E_PcSFLyynoHF_%7E_PcS)
 
