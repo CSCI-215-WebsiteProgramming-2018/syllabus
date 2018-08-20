@@ -110,27 +110,25 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Aug 23 - 25        Introduction to course, Semester tools, Review of HTML, GIT demo
-* Aug 28 - 01        Review HTML and CSS, Lab 01
-* Sep 04 - 06	      Responsive web design, Responsive frameworks,Document Object Model
-* Sep 08 - 13        Hurricane Irma evac
-* Sep 15             Lab 02
-* Sep 18 - 22        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03 
-* Sep 25 - 29	      Javascript data types, Javascript data structures, Javascript control flow, Lab 04
-* Oct 02 - 04        Javascript control flow, Exam review         
-* Oct 06             **EXAM #1**
-* Oct 07             Irma makeup day. DOM Reading
-* Oct 09 - 13        Manipulating the DOM, Lab 05
-* Oct 15             Irma makeup day. Lab 06 (part 1)
-* Oct 16 - 20        Event Handling, Form validaton, Lab 06 (part 2)
-* Oct 23 - 27	      Event Object, Animation, Lab 07
-* Oct 30 - 01        Lab 07 review, Event Object, JSON intro, Exam review
-* Nov 03             **EXAM #2**
-* Nov 06 - 10	      Intro to jQuery Lab 08 (jQuery lab)
-* Nov 13 - 17	      jQuery events, jQuery animation, group time
+* Aug 21 - 23        Introduction to course, Semester tools, Review of HTML, GIT demo
+* Aug 28 - 30        Review HTML and CSS, Lab 01
+* Sep 04 - 06	      Responsive web design, Responsive frameworks,Document Object Model, Lab 02
+* Sep 11 - 13        Introduction to Javascript programming, Javascript data types, Javascript data structures, Lab 03  
+* Sep 18 - 20        Javascript data types, Javascript data structures, Javascript control flow, Lab 04
+* Sep 25 - 27	      Javascript control flow, Exam review 
+* Oct 02             **EXAM #1**
+* Oct 04             Manipulating the DOM, Lab 05    
+* Oct 09 - 11        Event Handling, Form validaton, Lab 06 (part 1 and 2)
+* Oct 16 - 18        Event Object, Animation, Lab 07
+* Oct 23 - 25	      Lab 07 review, Event Object, JSON intro
+* Oct 30             Exam review
+* Nov 01             **EXAM #2**         
+* Nov 06             **FALL Break** 
+* Nov 08    	      Intro to jQuery Lab 08 (jQuery lab)
+* Nov 13 - 15	      jQuery events, jQuery animation, group time
 * Nov 20             Server side topics, introduction to AJAX
-* Nov 22 - 24        **Thanksgiving Break**	
-* Nov 27 - 01        Student presentations
+* Nov 22             **Thanksgiving Break**	
+* Nov 27 - 29        Student presentations
 * Dec 04  
 
 ## Resources
