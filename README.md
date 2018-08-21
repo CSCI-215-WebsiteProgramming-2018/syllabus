@@ -7,14 +7,14 @@ permalink: /
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming)
+* **Course:** [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming-2018)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Slack](https://javascriptdev2018.slack.com)
         * This is a communications medium for students to interact with one another and myself. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Office Hours: Tue & Thur- 4:30 to 5:30 (By request)
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
-* [Syllabus as PDF](https://www.printfriendly.com/print?source=homepage&url_s=uGGCF_%7E_PdN_%7E_PcS_%7E_PcSpFpv-cbf-JroFvGrCEBtEnzzvAtmtvGuHomvB_%7E_PcSFLyynoHF_%7E_PcS)
+* [Syllabus as PDF](https://www.printfriendly.com/p/g/APY7Py)
 
 ## Course Description
 
@@ -32,7 +32,7 @@ A course teaching the design and development of interactive Web pages and client
 
 ## Course Overview
 
-This course builds on your Web Design knowledge by adding a dynamic element to your websites. This is achieved with extensive use of the Javascript programming language and Javascript libraries such as jQuery. Modern tools such as Webstorm (or equivilent editor), Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
+This course builds on your Web Design knowledge by adding a dynamic element to your websites. This is achieved with extensive use of the Javascript programming language and Javascript libraries such as jQuery. Modern tools such as Webstorm (or equivilent editor), Git, GitHub, and the Debugger will be heavily used.  Slack will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
 * Write rich web-based programs that execute in a standard web browser
 * Write web-programs that use JavaScript and HTML
@@ -57,11 +57,11 @@ This course builds on your Web Design knowledge by adding a dynamic element to y
 
 All homework assignments are listed within the [Course Outline](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/course-outline.md).
 
-Most Fridays there will be an in-class lab assignment. You will be given 50 minutes to complete and upload the assignment to GitHub. Edits can be made until the next Sunday, but there must be a commit/push before the end of class the day of the lab. In general, the lab assignment will be a coding exercise (JavaScript, HTML, or both), however a short quiz may also be given. The quiz may include multiplechoice, fill in the blank, or short answer questions. For example, 15 minutes of the lab time is a quiz, and the remaining 35 minutes is a coding problem.
+Most Thursdays there will be an in-class lab assignment. You will be given 50 minutes to complete and upload the assignment to GitHub. Edits can be made until the next Sunday, but there must be a commit/push before the end of class the day of the lab. In general, the lab assignment will be a coding exercise (JavaScript, HTML, or both), however a short quiz may also be given. The quiz may include multiplechoice, fill in the blank, or short answer questions. For example, 15 minutes of the lab time is a quiz, and the remaining 35 minutes is a coding problem.
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-215-WebsiteProgramming/syllabus/blob/gh-pages/course-outline.md). This will take you to the project in [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming) GitHub Organization account. 
+1. Navigate to the proper project in [CSCI-215-WebsiteProgramming](https://github.com/CSCI-215-WebsiteProgramming-2018) GitHub Organization account. 
 2. Fork the project into your personal GitHub account.
 3. Clone the project onto your local workstation.
 4. Read the instructions provided by the README file.
