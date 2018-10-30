@@ -118,15 +118,15 @@ The final grade for the course is based on 6 grades as follows:
 * Sep 25 - 27	      Javascript control flow, Exam review 
 * Oct 02             **EXAM #1**
 * Oct 04             Manipulating the DOM, Lab 05    
-* Oct 09 - 11        Event Handling, Form validaton, Lab 06 (part 1 and 2)
-* Oct 16 - 18        Event Object, Animation, Lab 07
-* Oct 23 - 25	      Lab 07 review, Event Object, JSON intro
-* Oct 30             Exam review
-* Nov 01             **EXAM #2**         
+* Oct 09 - 11        
+* Oct 16 - 18        
+* Oct 23 - 25	      Event Handling, Form validaton, Lab 06 (part 1 and 2)
+* Oct 30             Lab 06 review, Animation, Server side topics
+* Nov 01             Event Object, Animation, Lab 07
 * Nov 06             **FALL Break** 
 * Nov 08    	      Intro to jQuery Lab 08 (jQuery lab)
-* Nov 13 - 15	      jQuery events, jQuery animation, group time
-* Nov 20             Server side topics, introduction to AJAX
+* Nov 13 - 15	      , introduction to AJAX, Exam review
+* Nov 20             **EXAM #2** 
 * Nov 22             **Thanksgiving Break**	
 * Nov 27 - 29        Student presentations
 * Dec 04  
